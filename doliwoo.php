@@ -83,7 +83,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 				//first, create the rates
 				$data = array(
 					array(
-						'tax_rate_country'  => 'ES',
+						'tax_rate_country'  => 'UY',
 						'tax_rate'          => '22',
 						'tax_rate_name'     => $tax_name,
 						'tax_rate_priority' => 1,
@@ -91,7 +91,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 						'tax_rate_class'    => ''
 					),
 					array(
-						'tax_rate_country'  => 'ES',
+						'tax_rate_country'  => 'UY',
 						'tax_rate'          => '18',
 						'tax_rate_name'     => $tax_name,
 						'tax_rate_priority' => 1,
@@ -99,7 +99,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 						'tax_rate_class'    => 'reduced-rate'
 					),
 					array(
-						'tax_rate_country'  => 'ES',
+						'tax_rate_country'  => 'UY',
 						'tax_rate'          => '10',
 						'tax_rate_name'     => $tax_name,
 						'tax_rate_priority' => 1,
@@ -107,7 +107,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 						'tax_rate_class'    => 'super-reduced-rate'
 					),
 					array(
-						'tax_rate_country'  => 'ES',
+						'tax_rate_country'  => 'UY',
 						'tax_rate'          => '1',
 						'tax_rate_name'     => $tax_name,
 						'tax_rate_priority' => 1,
@@ -115,7 +115,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 						'tax_rate_class'    => 'minimum-rate'
 					),
 					array(
-						'tax_rate_country'  => 'ES',
+						'tax_rate_country'  => 'UY',
 						'tax_rate'          => '0',
 						'tax_rate_name'     => $tax_name,
 						'tax_rate_priority' => 1,
