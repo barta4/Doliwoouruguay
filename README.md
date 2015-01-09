@@ -1,47 +1,49 @@
 Doliwoo
 =======
-A Wordpress plugin to interface a WooCommerce shop with Dolibarr.
+Un plugin para Wordpress para interconectar una tienda WooCommerce con Dolibarr.
 
-* Author: GPC.solutions
-* Contributors: Cédric Salvador ,Raphaël Doursenaud
-* Tags: Dolibarr, WooCommerce, Doliwoo
-* Requires at least: 3.7.1
-* Tested up to: 3.7.1
-* Stable tag: master
-* License: GPLv3
-* License URI: http://www.gnu.org/licenses/gpl-3.0.html
+* Autor: GPC.solutions
+* Colaboradores: Cédric Salvador, Raphaël Doursenaud
+* Etiquetas: Dolibarr, WooCommerce, Doliwoo
+* Se requiere como mínimo: 3.7.1
+* Probado hasta: 3.7.1
+* Etiqueta Estable: master
+* Licencia: GPLv3
+* Licencia URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Status
 ------
-This is alpha code. Contributors and testers are welcome.
+Este es el código alfa. Colaboradores y probadores son bienvenidos.
 
-If you need this for commercial application, you can buy paid support and development services from GPC.solutions <https://gpcsolutions.fr>
+Si necesita este para su aplicación comercial, usted puede comprar pagado de apoyo y desarrollo de servicios de GPC.solutions <https://gpcsolutions.fr>
 
 Description
 -----------
-This plugin uses Dolibarr webservices to :
+Este plugin utiliza servicios web Dolibarr a:
 
-* Allow Woocommerce to pull user, thirdparty and product informations from Dolibarr
-* Create Dolibarr orders and thirdparties from Woocommerce purchase data
+* Permita WooCommerce para tirar usuario, terceros y productos informaciones de Dolibarr
+* Crear Dolibarr órdenes y terceros a partir de datos de compra WooCommerce
+
 
 Dolibarr prerequisites
 ----------------------
-* Dolibarr >= 3.4.0
+* Dolibarr >= 3.7.0 // Probado en  lubuntu 14.10 con wordpreess 4.1
 * Modules:
     * Webservices
-    * Thirdparties
-    * Products
-    * Categories (products)
-    * Orders
+    * Terceros
+    * Productos
+    * Categorias (productos)
+    * Ordenes o Pedidos
     
 Wordpress prerequisites
 -----------------------
-* Woocommerce >= 2.0.0
+* Woocommerce >=  2.2.10
 
-Installation
+Installacion
 ------------
-* Extract the zip file.
-* Drop the contents in the wp-content/plugins/ directory of your WordPress installation.
-* Activate the Plugin from Plugins page.
-* Go to the Doliwoo menu and configure it according to your Dolibarr installation
+* Extraiga el archivo zip.
+* Deja el contenido en del  plugins / 
+* en eldirectorio de su instalación de WordPress wp-content /plugins/.
+* Activar el plugin desde la página Plugins.
+* Ir al menú Doliwoo y configurarlo de acuerdo con la instalación de Dolibarr
 
