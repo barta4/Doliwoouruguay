@@ -1,5 +1,5 @@
 # Copyright (C) 2013 WordPress
-# This file is distributed under the same license as the WordPress package.
+# Este archivo se distribuye bajo la misma licencia que el paquete de WordPress.
 msgid ""
 msgstr ""
 "Project-Id-Version: WordPress 3.8-RC1\n"
@@ -13,15 +13,15 @@ msgstr ""
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
 #: doliwoo-admin.php:34
-msgid "Could not write in doliwoo/conf.php"
+msgid "No se pudo escribir en doliwoo / conf.php"
 msgstr ""
 
 #: doliwoo-admin.php:38
-msgid "Could not open doliwoo/conf.php"
+msgid "No se pudo abrir doliwoo / conf.php"
 msgstr ""
 
 #: doliwoo-admin.php:45
-msgid "Doliwoo settings"
+msgid "Doliwoo configuraciones"
 msgstr ""
 
 #: doliwoo-admin.php:47
@@ -29,7 +29,7 @@ msgid "Dolibarr webservice URL"
 msgstr ""
 
 #: doliwoo-admin.php:48
-msgid "Dolibarr webservice key"
+msgid "Dolibarr webservice Clave"
 msgstr ""
 
 #: doliwoo-admin.php:49
@@ -37,11 +37,11 @@ msgid "Source application"
 msgstr ""
 
 #: doliwoo-admin.php:50
-msgid "Dolibarr login"
+msgid "Dolibarr iniciar sesion"
 msgstr ""
 
 #: doliwoo-admin.php:51
-msgid "Dolibarr password"
+msgid "Dolibarr Contraseña"
 msgstr ""
 
 #: doliwoo-admin.php:52
@@ -49,7 +49,7 @@ msgid "Dolibarr entity"
 msgstr ""
 
 #: doliwoo-admin.php:53
-msgid "Dolibarr category ID"
+msgid "Dolibarr categoria ID"
 msgstr ""
 
 #: doliwoo-admin.php:54
@@ -57,6 +57,6 @@ msgid "Dolibarr generic user ID"
 msgstr ""
 
 #: doliwoo.php:83
-msgid "VAT"
+msgid "IVA"
 msgstr ""
 
